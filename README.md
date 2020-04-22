@@ -23,8 +23,13 @@ Technology used :
 ## SMTP library 
 
 ## Demo of this app 
-1 open thsi app
+
+### 1 open this app
+
 ![Image description](https://github.com/vikashnitjsr/Medical-Voice-prescription-APP--AI-enabled-/blob/master/Department_recommend/Screenshot%20from%202020-04-22%2014-14-47.png)
+
+### 2.User/Patient  Sign in portal
+![2nd view](https://github.com/vikashnitjsr/Medical-Voice-prescription-APP--AI-enabled-/blob/master/Department_recommend/Screenshot%20from%202020-04-22%2014-14-55.png)
 
 
 
