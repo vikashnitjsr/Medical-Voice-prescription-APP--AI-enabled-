@@ -21,3 +21,20 @@ Technology used :
 ## NLP (Spacy Library )
 ## Chrome speech to text API
 ## SMTP library 
+
+## Demo of this app 
+1 open thsi app
+![Image description](https://github.com/vikashnitjsr/Medical-Voice-prescription-APP--AI-enabled-/blob/master/Department_recommend/Screenshot%20from%202020-04-22%2014-14-47.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
